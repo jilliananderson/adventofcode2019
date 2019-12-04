@@ -1,0 +1,23 @@
+{
+  "name": "adventofcode2019",
+  "version": "1.0.0",
+  "description": "--- Day 1: The Tyranny of the Rocket Equation --- Santa has become stranded at the edge of the Solar System while delivering presents to other planets! To accurately calculate his position in space, safely align his warp drive, and return to Earth in time to save Christmas, he needs you to bring him measurements from fifty stars.",
+  "main": "fuel.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JillianAndersonSlate/adventofcode2019.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JillianAndersonSlate/adventofcode2019/issues"
+  },
+  "homepage": "https://github.com/JillianAndersonSlate/adventofcode2019#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
